@@ -39,13 +39,13 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-This is a list of resources for people who are new to contributing to Open Source.
+Ito ay isang listahan ng mga resource para sa mga taong bago sa pag-konkontribute sa Open Source.
 
-If you find additional resources, please create a pull request.
+Kung nakakita mo ng mga karagdagang resource, paki-likha ng pull request.
 
-If you have questions or comments, please create an issue.
+Kung meron ka mga tanong o kommento, paki-likha ng issue.
 
-**Table of Contents**
+**Talaan ng Nilalaman**
 
 - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
